@@ -2,13 +2,18 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
 MartinP
+MartinP
     <mapping directory="" vcs="Git" />
 =======
+=======
+ MiguelR
+    <mapping directory="" vcs="Git" />
+
+main
  Miguel-Blanco
 Miguel-Blanco
     <mapping directory="" vcs="Git" />
-=======
-=======
+
  DanielBarrera
     <mapping directory="" vcs="Git" />
  main
@@ -19,8 +24,12 @@ Miguel-Blanco
 
  Miguel-Blanco
  main
-=======
+
 main
+ main
+MartinP
+main
+=======
  main
 main
   </component>
