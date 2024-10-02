@@ -7,12 +7,6 @@ public class Main {
         // miguelon02
         // miguel angel rojas rodriguez
 
-        Map<String, Perras> perros = new HashMap<>();
-        perros.put("1",new Perras());
 
-        for (String clave: perros.keySet()){
-            System.out.println("clave: "+clave+", info: "+perros.get(clave));
-        }
-        perros.remove("1");
     }
 }
