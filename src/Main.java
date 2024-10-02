@@ -1,9 +1,43 @@
-public class Main {
-    public static void main(String[] args) {
+import java.util.HashMap;
+import java.util.Map;
 
-        // johanks19
+public class Main {
+    public static void main (String[] args) {
+
+        // Juansehs
+
+        // Juan Sebastian Hernandez Silva//
+
+
+ SebasH
+ Daniel_silva
+
+        // USUARIO GIT: danii1314
+        // NOMBRE COMPLETO: Daniel Andres Silva Lopez
+
+
+=======
+
+
+        // SantiagT1
+        // Santiago Pinzon Tenorio
+=======
+BrayanM
+        // brayan7122
+        // Brayan Smith Matabanchoy Zambrano
+=======
+        // samuelolarte2802
+        // Samuel David OLarte Tenjo
+ main
+
+ main
+=======
+         // johanks19
         // johan Sneyder Blanco Sanchez
 
+JohanB
 
+ main
+ main
     }
 }
