@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
 
-        // USUARIO: wamp-28
-        // William Alexander Matallana Porras
+        // USUARIO: Kari-00
+        // Karina andrea arrollo gutierres
 
     }
 }
