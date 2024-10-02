@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+ main
  Daniel_silva
 Daniel_silva
     <mapping directory="" vcs="Git" />
@@ -22,5 +23,8 @@ BrayanM
 =======
  main
 main
+=======
+    <mapping directory="" vcs="Git" />
+ JohanB
   </component>
 </project>
