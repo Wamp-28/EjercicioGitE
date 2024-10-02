@@ -16,7 +16,7 @@ public class Main {
         // NOMBRE COMPLETO: Daniel Andres Silva Lopez
 
 
-=======
+
 
 
         // SantiagT1
@@ -30,10 +30,16 @@ BrayanM
         // Samuel David OLarte Tenjo
  main
 
+ MiguelR
+        // miguelon02
+
+        // miguel angel rojas rodriguez
+
  main
-=======
+
          // johanks19
         // johan Sneyder Blanco Sanchez
+ main
 
 JohanB
 
