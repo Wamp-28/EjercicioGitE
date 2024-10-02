@@ -21,11 +21,11 @@ public class Main {
 
         // SantiagT1
         // Santiago Pinzon Tenorio
-=======
+
 BrayanM
         // brayan7122
         // Brayan Smith Matabanchoy Zambrano
-=======
+
         // samuelolarte2802
         // Samuel David OLarte Tenjo
  main
@@ -41,7 +41,16 @@ BrayanM
         // johan Sneyder Blanco Sanchez
  main
 
+ JuanR
+        // USUARIO GIT
+        // JuanRozo18
+
+        // NOMBRE COMPLETO
+        // Juan Camilo Rozo Penagos
+
 JohanB
+
+  main
 
  main
  main
