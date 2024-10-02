@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
 
-        // USUARIO GIT
-        // NOMBRE COMPLETO
+        // MartinPineda-18
+        // Juan Martin Pineda Rubiano
 
     }
 }
