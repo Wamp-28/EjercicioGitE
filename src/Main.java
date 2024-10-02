@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
 
-        // USUARIO GIT
-        // NOMBRE COMPLETO
+        // Brayan-ai-jpg-bit
+        // Brayan Arturo Torres Silva
 
     }
 }
