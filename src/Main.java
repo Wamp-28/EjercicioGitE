@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
 
-        // USUARIO GIT
-        // NOMBRE COMPLETO
+        // SantiagT1
+        // Santiago Pinzon Tenorio
 
     }
 }
