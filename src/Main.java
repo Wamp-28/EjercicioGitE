@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
 
-        // MartinPineda-18
-        // Juan Martin Pineda Rubiano
+        // samuelolarte2802
+        // Samuel David OLarte Tenjo
 
     }
 }
