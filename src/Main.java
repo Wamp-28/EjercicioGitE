@@ -1,9 +1,9 @@
 public class Main {
     public static void main(String[] args) {
 
- DanielBarrera
-        // Usuario: Xbraster
-        // NOMBRE COMPLETO: Daniel Felipe Barrera Segura
+
+        // Brayan-ai-jpg-bit
+        // Brayan Arturo Torres Silva
 
 
     }
