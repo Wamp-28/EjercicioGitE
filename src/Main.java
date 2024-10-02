@@ -8,7 +8,7 @@ public class Main {
 
         // Juan Sebastian Hernandez Silva//
 
-        Map<String,Integer> Comida  = new HashMap<>();
+
 
     }
 }
